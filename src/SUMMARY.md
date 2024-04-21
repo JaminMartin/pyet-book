@@ -2,11 +2,10 @@
 
 [Introduction](README.md)
 
-# User Guide
-
+# Overview and Install Guide
+- [Project Overview](./introduction/overview.md)
 - [Road Map](./introduction/road_map.md)
 - [Installation](./introduction/installation.md)
-- [Usage](./introduction/usage.md)
 
 # Structures & Energy Transfer Models
 

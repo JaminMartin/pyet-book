@@ -1,5 +1,5 @@
 # Generating a structure & plotting
-# Usage
+
 **Note** a complete example of the following code can be found [here](https://github.com/JaminMartin/pyet-mc/tree/main/examples)
 ## Generating a structure & plotting
 Firstly, a .cif file must be provided. How you provide this .cif file is up to you! We will take a .cif file from the materials project website for this example. However, they also provide a convenient API that can also be used to provide .cif data. It is highly recommended as it provides additional functionality, such as XRD patterns. Information on how to access this API can be found here: https://next-gen.materialsproject.org/api. 
