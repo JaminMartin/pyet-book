@@ -40,7 +40,7 @@ jobs:
 
       - name: Install Katex
         run: |
-          cargo install cargo install mdbook-katex       
+          cargo install mdbook-katex       
       
       - name: Setup Pages
         id: pages
