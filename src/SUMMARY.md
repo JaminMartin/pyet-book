@@ -33,7 +33,8 @@
 - [Saving plots](./plotting/saving.md)
 
 # Additional Information
-
+- [References](./information/references.md)
+- [Rust Bindings](./information/rust_bindings.md)
 - [Troubleshooting](./information/troubleshooting.md)
 - [Referencing this project](./information/referencing.md)
 - [License](./information/License.md)
