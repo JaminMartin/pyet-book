@@ -27,7 +27,7 @@
 - [Types of plots](./plotting/plot_types.md)
    - [Spectra plots](./plotting/spectra.md)
    - [Transient plots](./plotting/transient.md)
-   - [Structure plots](./plotting/spectra.md)
+   - [Structure plots](./plotting/structure.md)
 - [Configuring plots](./plotting/configuration.md)
 - [Saving plots](./plotting/saving.md)
 
