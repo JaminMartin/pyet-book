@@ -1,4 +1,3 @@
-# Introduction
 <h1 align="center">PYET-MC</h1>
 <p align="center">
   <img width = "400" height = "400"  alt="pyet_logo" src="./images/pyet_logov1.svg">
